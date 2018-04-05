@@ -46,7 +46,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Listed by *ximo*
 - Email: ximocoder@gmail.com
-- Telegram: [@hendisantika34](https://t.me/ximo_sweden)
+- Telegram: [@ximo_sweden](https://t.me/ximo_sweden)
 
 ## License
 
