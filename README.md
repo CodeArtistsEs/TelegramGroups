@@ -6,23 +6,19 @@ A list of awesome groups related to developers on Telegram mainly for Spanish-sp
 
 ### Programming Languages & Environments
 
+* **Microsoft**
+  + [dotnet](https://t.me/dotnetesp)
+  
 * **Kotlin**
   + [Kotlin](https://t.me/kotlinES)
 
-* **Microsoft**
-  + [dotnet](https://t.me/dotnetesp)
-
 * **Python**
-  + [Django Indonesia](https://t.me/DjangoID)
-  + [Flask ID](https://t.me/flaskid)
-  + [Python ID](https://t.me/pythonID)
-  + [Surabaya.py](https://t.me/surabayadotpy)
 
 * **Rust**
-  + [Rust Indonesia](https://t.me/rustindonesia)
+
 
 * **Swift**
-  + [Swift Indonesia](https://t.me/swiftID)
+
 
 
 ### IOT
