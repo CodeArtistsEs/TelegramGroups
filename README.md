@@ -22,7 +22,7 @@ A list of awesome groups related to developers on Telegram mainly for Spanish-sp
   + [Python España](https://t.me/PythonEsp)
 
 * **Programación funcional**
-  + [Python España](https://t.me/programacionFuncional)
+  + [Programación funcional](https://t.me/programacionFuncional)
 
 * **Django**
   + [Django España](https://t.me/DjangoEsp)
