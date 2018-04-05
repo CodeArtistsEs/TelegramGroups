@@ -42,7 +42,7 @@ A list of awesome groups related to developers on Telegram mainly for Spanish-sp
 
 
 ## Contributing
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](Contributing.md) for details.
 
 ## Listed by *ximo*
 - Email: ximocoder@gmail.com
