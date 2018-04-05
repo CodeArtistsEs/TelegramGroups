@@ -7,40 +7,40 @@ A list of awesome groups related to developers on Telegram mainly for Spanish-sp
 ### Programming Languages & Environments
 
 * **C & C++**
-+ [C & C++ en Español](https://t.me/programacioncycpp)
+  + [C & C++ en Español](https://t.me/programacioncycpp)
 
 * **C & C++**
-+ [Frontend en Español](https://t.me/frontendsp)
+  + [Frontend en Español](https://t.me/frontendsp)
 
 * **Microsoft**
-+ [dot net en Español](https://t.me/dotnetesp)  
+  + [dot net en Español](https://t.me/dotnetesp)  
   
 * **Kotlin**
   + [Kotlin](https://t.me/kotlinES)
 
 * **Python**
-+ [Python España](https://t.me/PythonEsp)
+  + [Python España](https://t.me/PythonEsp)
 
 * **Programación funcional**
-+ [Python España](https://t.me/programacionFuncional)
+  + [Python España](https://t.me/programacionFuncional)
 
 * **Django**
-+ [Django España](https://t.me/DjangoEsp)
+  + [Django España](https://t.me/DjangoEsp)
 
 * **Rust**
 
 * **Swift**
 
 * **SQL**
-+ [SQL & NoSQL](https://telegram.me/esequele)
+  + [SQL & NoSQL](https://telegram.me/esequele)
 
 * **Angular**
-+ [Angular](https://t.me/AngularWeb)
+  + [Angular](https://t.me/AngularWeb)
 
 ### IOT
 
 ### DevOps
-+ [Devops Hispano](https://t.me/Devopshispano)
+  + [Devops Hispano](https://t.me/Devopshispano)
 
 ### Development
   + [CleanCoders](https://t.me/cleancoders)
