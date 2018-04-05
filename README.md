@@ -9,8 +9,8 @@ A list of awesome groups related to developers on Telegram mainly for Spanish-sp
 * **C & C++**
   + [C & C++ en Español](https://t.me/programacioncycpp)
 
-* **C & C++**
-  + [C & C++](https://t.me/frontendsp)
+* **Front end en Español**
+  + [FrontendEsp](https://t.me/frontendsp)
 
 * **Microsoft**
   + [dot net en Español](https://t.me/dotnetesp)  
