@@ -1,0 +1,21 @@
+//: Playground - noun: a place where people can play
+// Swift
+
+func pintandovoy(_ x: Int) -> String {
+    if ((x % 3) == 0) && ((x % 5) == 0){
+        return "Fizz"
+    }
+    if ((x % 5) == 0) && !((x % 3) == 0){
+        return "Buzz"
+    }
+    
+    if ((x % 3) == 0) && ((x % 5) == 0) {
+        return "FizzBuzz"
+    }
+    
+     return String(x)
+}
+
+for x in 1...100 {
+    print(pintandovoy(x))
+}
