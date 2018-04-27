@@ -1,21 +1,26 @@
 //: Playground - noun: a place where people can play
 // Swift
 
-func pintandovoy(_ x: Int) -> String {
-    if ((x % 3) == 0) && ((x % 5) == 0){
-        return "Fizz"
-    }
-    if ((x % 5) == 0) && !((x % 3) == 0){
-        return "Buzz"
-    }
-    
-    if ((x % 3) == 0) && ((x % 5) == 0) {
-        return "FizzBuzz"
-    }
-    
-     return String(x)
-}
+//func pintandovoy(_ x: Int) -> String {
+//    if ((x % 3) == 0) && ((x % 5) == 0){
+//        return "Fizz"
+//    }
+//    if ((x % 5) == 0) && !((x % 3) == 0){
+//        return "Buzz"
+//    }
+//
+//    if ((x % 3) == 0) && ((x % 5) == 0) {
+//        return "FizzBuzz"
+//    }
+//
+//    return String(x)
+//}
+//así mejor... y como no gustan los saltos de línea pues los quito...
 
-for x in 1...100 {
-    print(pintandovoy(x))
+func pintandovoy(_ x: Int) -> String {
+    if x % 15 == 0 {  return "FizzBuzz" }
+    if x % 3 == 0 { return "Fizz" }
+    if x % 5 == 0 { return "Buzz" }
+    return String(x)
 }
+for x in 1...100 { print(pintandovoy(x)) }
